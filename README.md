@@ -1,3 +1,3 @@
-o# terraform-test
+# terraform-test
 
 Can you fix that terraform code?
