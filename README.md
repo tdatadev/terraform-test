@@ -1,3 +1,3 @@
-# terraform-test
+o# terraform-test
 
-Can you fix that and create pull request?
+Can you fix that terraform code?
